@@ -71,9 +71,11 @@ LOOP:if (flag != 4) {
 			}
 		}
 	}
-
+	
 	//cout << endl;
 	
 	return 0;
 }*/
+/*********/
+
 
