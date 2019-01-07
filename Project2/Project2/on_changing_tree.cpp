@@ -16,7 +16,7 @@ int main()
 		pi[p].push_back(i);   //保存各顶点编号所对应的父项数；pi[a][b],a表示父项数，b+1表示该父项数下顶点数；
 	}
 
-	cout << pi[3][0];
+	cout << pi[2][0];
 
 	return 0;
 }
